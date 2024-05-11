@@ -1,6 +1,6 @@
 ## 我是墨染青衣 🐟
 
-- 🐧 大一在读，练习时长未达一年的弱鸡 
+- 🐧 大一在读，练习时长未达半年的弱鸡 
 - 🏡 作品：<a href="https://github.com/liyupi/code-nav" target="_blank">编程导航</a> 
 - 📚 个人博客（不看也罢）：<a href="https://blog.csdn.net/2301_80058383?spm=1000.2115.3001.5343" target="_blank">CSDN</a> 
 
